@@ -1,0 +1,21 @@
+.tiles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #906ec5;
+  }
+  
+  .tile {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: #e76363;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .tile:hover {
+    background-color: #8ea1e2;
+  }
+  
